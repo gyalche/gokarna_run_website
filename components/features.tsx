@@ -256,7 +256,7 @@ export default function Features() {
               </svg>
               {/* <h4 className="h4 mb-2">Instant Features</h4> */}
               <p className="text-lg text-gray-400 text-center">
-                Raise awareness about running activities.
+                Organize running events and marathons.
               </p>
             </div>
           </div>
