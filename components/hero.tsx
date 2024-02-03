@@ -116,7 +116,7 @@ export default function Hero() {
             </div> */}
           </div>
           <div className="slide-container" style={{ padding: '10px' }}>
-            <Slide auto>
+            <Slide>
               {slideImages.map((slideImage, index) => (
                 <div key={index}>
                   <div
